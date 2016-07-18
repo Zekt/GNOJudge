@@ -1,0 +1,22 @@
+{
+  "name": "nojudge",
+  "version": "0.0.1",
+  "description": "An API only judge system written in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zekt/NoJudge.git"
+  },
+  "keywords": [
+    "Judge"
+  ],
+  "author": "Viktor Lin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Zekt/NoJudge/issues"
+  },
+  "homepage": "https://github.com/Zekt/NoJudge#readme"
+}
