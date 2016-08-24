@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Zekt/NoJudge/issues"
   },
-  "homepage": "https://github.com/Zekt/NoJudge#readme"
+  "homepage": "https://github.com/Zekt/NoJudge#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
